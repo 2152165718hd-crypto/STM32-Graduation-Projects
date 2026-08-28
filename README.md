@@ -3,8 +3,39 @@
 # 🚀 STM32 单片机毕业设计/课程设计全套精选资料库（23个完整项目）
 
 [![Update](https://img.shields.io/badge/资料状态-持续实时更新中-brightgreen?style=flat-square&logo=git&logoColor=white)](https://github.com/2152165718hd-crypto/STM32-Graduation-Projects)
+[![WeChat](https://img.shields.io/badge/微信咨询-a2152165718-07C160?style=flat-square&logo=wechat&logoColor=white)](https://weixin.qq.com/)
+[![Service](https://img.shields.io/badge/业务承接-单片机毕设定制%20%7C%20成品出售-blue?style=flat-square)](https://github.com/2152165718hd-crypto/STM32-Graduation-Projects)
 [![Status](https://img.shields.io/badge/实物验证-100%25可运行-orange?style=flat-square)](https://github.com/2152165718hd-crypto/STM32-Graduation-Projects)
-[![Projects](https://img.shields.io/badge/精选项目-23个完整案例-blue?style=flat-square)](https://github.com/2152165718hd-crypto/STM32-Graduation-Projects)
+
+---
+
+### 📢 【承接单片机设计 / 毕业设计定制 / 实物成品出售】
+
+> 🎓 **需要毕业设计帮助、项目定制或现成实物？本人长期承接单片机软硬件开发与成品出售！**  
+> 💡 **业务范围**：  
+> • **🔥 实物成品出售**：支持本库所有项目及各类单片机**现成实物成品出售**（均已全套焊接、烧录、调试完毕，顺丰包邮，附带全套资料与技术指导，**到手即用**）  
+> • **🛠️ 毕业设计定制**：STM32 / 51单片机 / ESP32 / Arduino 等各类软硬件定制开发、功能扩展与升级  
+> • **🔌 硬件电路设计**：原理图与 PCB 绘制（立创EDA/Altium Designer）、打样焊接、元器件选型指导  
+> • **💻 嵌入式软件开发**：Keil C 源码编写、传感器驱动、控制算法实现、代码深度规范注释  
+> • **🌐 物联网与上位机**：OneNet / 阿里云 IoT / 腾讯云接入、手机 App、微信小程序、PC 上位机界面开发  
+> • **📑 论文与答辩辅导**：开题报告与论文撰写辅导、原理图/流程图绘制、答辩 PPT 制作与一对一演示讲解  
+> 
+> 💬 **有需求随时联系，合作添加微信**：<kbd><b> a2152165718 </b></kbd> （添加时请备注：**单片机设计 / 成品咨询**）
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="260">
+<img src="./docs/wechat_qr.png" width="200" alt="微信二维码"><br>
+<sub>📱 <b>微信扫一扫快速添加好友</b></sub><br>
+<sub>微信号：<code>a2152165718</code></sub><br>
+<sub>（备注：<b>单片机设计 / 成品咨询</b>）</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -90,7 +121,7 @@
 
 ---
 
-## 💬 开源说明与更新动态
+## 📞 联系方式与合作咨询
 
-- 🔄 **更新动态**：仓库与网盘全套资料保持长期实时更新，欢迎 Star ⭐️ 收藏与关注！
-- 🤝 **技术交流**：欢迎在 GitHub 提交 Issue 或参与 Discussion 进行学术与嵌入式技术交流探讨。
+- 📱 **微信 (WeChat)**：`a2152165718` （承接单片机设计、毕业设计作品辅导、定制开发）
+- 🔄 **更新动态**：仓库与网盘全套资料保持长期实时更新，欢迎交流合作！
